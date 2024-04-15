@@ -42,6 +42,8 @@ title: Zombi Tasks - Érettségi feladatok gyakorlás
  
 asdsa
 
+[TEST LINK](./Python/Feladatok/01 - Adatbeolvasás és tárolás Alapok)
+
 <br> 
  <br> 
  <br> 
