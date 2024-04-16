@@ -1,0 +1,2 @@
+Egy palindrom szám mindkét irányban ugyanúgy olvasható. 
+A legnagyobb palindrom, amely két kétjegyű szám szorzataként áll elő, a 9009 = 91 x 99. Határozzuk meg a legnagyobb palindromot, amely két háromjegyű szám szorzataként jön létre!

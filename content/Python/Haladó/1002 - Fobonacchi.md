@@ -1,0 +1,3 @@
+A Fibonacci-sorozat minden új tagja az előző két tag összeadásával keletkezik. Az 1 és 2 kezdőértékekkel az első 10 tag a következő lesz: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
+
+Vegyük figyelembe azokat a Fibonacci-sorozat tagokat, amelyek értéke nem haladja meg a négy milliót, és határozzuk meg a páros értékű tagok összegét!

@@ -1,0 +1,1 @@
+A 2520 az a legkisebb szám, amelyet 1-től 10-ig minden számmal oszthatunk maradék nélkül. Mi az a legkisebb pozitív szám, amely 1-től 20-ig minden számmal osztható maradék nélkül?
